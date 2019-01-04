@@ -34,7 +34,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(499, 458);
+            this.ClientSize = new System.Drawing.Size(505, 401);
+            this.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
