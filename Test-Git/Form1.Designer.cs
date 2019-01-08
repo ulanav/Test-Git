@@ -37,7 +37,7 @@
             this.ClientSize = new System.Drawing.Size(505, 401);
             this.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "FormTest";
             this.ResumeLayout(false);
 
         }
